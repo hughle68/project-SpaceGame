@@ -11,7 +11,7 @@ var rocket = {
 	y: 390,
 	width: 100
 };
-var velocity = 8;
+var velocity = 10;
 
 // make local names just to save typing later
 var torpedo = document.querySelector("#torpedo"),
